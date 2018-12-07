@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily4-Github</string>
+    <string name="FIRST">First Name</string>
+    <string name="LOCATION">Location</string>
+    <string name="EMAIL">Email</string>
+    <string name="NAME">Full Name</string>
+    <string name="TO_REPO">To Repository</string>
+    <string name="title_activity_repo_display">RepoDisplay</string>
+</resources>
